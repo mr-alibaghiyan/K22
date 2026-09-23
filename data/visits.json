@@ -1,0 +1,18 @@
+[
+ {"id":"d3_5","label":"۳ تا ۵ روزگی","ageDaysFrom":3,"ageDaysTo":5,"note":"اولین مراقبت. معاینه پزشک ترجیحاً در همین بازه انجام شود."},
+ {"id":"d14_15","label":"۱۴ تا ۱۵ روزگی","ageDaysFrom":14,"ageDaysTo":15},
+ {"id":"d30_45","label":"۳۰ تا ۴۵ روزگی","ageDaysFrom":30,"ageDaysTo":45},
+ {"id":"m2","label":"۲ ماهگی","ageMonths":2},
+ {"id":"m4","label":"۴ ماهگی","ageMonths":4},
+ {"id":"m6","label":"۶ ماهگی","ageMonths":6},
+ {"id":"m7","label":"۷ ماهگی","ageMonths":7},
+ {"id":"m9","label":"۹ ماهگی","ageMonths":9},
+ {"id":"m12","label":"۱۲ ماهگی","ageMonths":12,"note":"معاینه پزشک نیز در این سن انجام شود."},
+ {"id":"m15","label":"۱۵ ماهگی","ageMonths":15},
+ {"id":"m18","label":"۱۸ ماهگی","ageMonths":18},
+ {"id":"m24","label":"۲۴ ماهگی (۲ سالگی)","ageMonths":24},
+ {"id":"m30","label":"۳۰ ماهگی","ageMonths":30},
+ {"id":"m36","label":"۳۶ ماهگی (۳ سالگی)","ageMonths":36,"note":"معاینه پزشک و معاینه دندانپزشک نیز در این سن انجام شود."},
+ {"id":"m48","label":"۴۸ ماهگی (۴ سالگی)","ageMonths":48},
+ {"id":"m60","label":"۶۰ ماهگی (۵ سالگی)","ageMonths":60,"note":"معاینه پزشک و معاینه دندانپزشک نیز در این سن انجام شود."}
+]

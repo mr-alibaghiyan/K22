@@ -1,0 +1,30 @@
+{
+  "name": "کودک من — همراه مراقبت کودک سالم",
+  "short_name": "کودک من",
+  "description": "داشبورد مادرپسند و شخصی‌سازی‌شده برای رشد، تغذیه، خواب، تکامل، واکسن، ایمنی و علائم هشدار کودک بر پایه بوکلت‌های کودک سالم",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f9fc",
+  "theme_color": "#4A90E2",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
